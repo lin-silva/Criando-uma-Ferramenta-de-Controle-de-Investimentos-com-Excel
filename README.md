@@ -1,9 +1,1 @@
-Ferramenta_Controle_de_Investimento_com_excel
-Imagem_com_logo
-Configuracões
-Salario_rendimentos_da_carteira_sugestao_investimento_salario*30%
-Investimento_mensal
-Quanto_investir_por_mes_aporte
-Por_quantos_anos
-Taxa_de_rendimentos_mensal
-Patrimonio_acumulado_VF(taxa_mensal;qtd_anos*12;aporte*-1)
+Ferramenta de Controle de Investimentos com Excel
